@@ -1,0 +1,4124 @@
+[
+  {
+    "id": "G9H5_NhGBDMu4olG3b0rGQ",
+    "lat": 13.789364,
+    "lng": 100.603326,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.789364_100.603326_G9H5_NhGBDMu4olG3b0rGQ_210_2024-11.jpg",
+    "panoId": "G9H5_NhGBDMu4olG3b0rGQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.96",
+      "obstacle_pct": "12.72",
+      "damage_pct": "12.24"
+    }
+  },
+  {
+    "id": "ZADAo1t1SoixRWJZZvhWJQ",
+    "lat": 13.789381,
+    "lng": 100.603643,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.789381_100.603643_ZADAo1t1SoixRWJZZvhWJQ_30_2024-11.jpg",
+    "panoId": "ZADAo1t1SoixRWJZZvhWJQ",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "32.47",
+      "obstacle_pct": "29.46",
+      "damage_pct": "3.01"
+    }
+  },
+  {
+    "id": "QomNy3L57MhOJt39PRRYVQ",
+    "lat": 13.7895,
+    "lng": 100.603083,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.789500_100.603083_QomNy3L57MhOJt39PRRYVQ_210_2024-11.jpg",
+    "panoId": "QomNy3L57MhOJt39PRRYVQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "52.05",
+      "obstacle_pct": "11.43",
+      "damage_pct": "40.62"
+    }
+  },
+  {
+    "id": "AsZpvwtUcqTxKusOVrsyxA",
+    "lat": 13.790043,
+    "lng": 100.602108,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.790043_100.602108_AsZpvwtUcqTxKusOVrsyxA_210_2024-11.jpg",
+    "panoId": "AsZpvwtUcqTxKusOVrsyxA",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "41.39",
+      "obstacle_pct": "6.64",
+      "damage_pct": "34.75"
+    }
+  },
+  {
+    "id": "A2MUp8eEV3ZppWGJIKiOjw",
+    "lat": 13.790608,
+    "lng": 100.601448,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.790608_100.601448_A2MUp8eEV3ZppWGJIKiOjw_30_2024-11.jpg",
+    "panoId": "A2MUp8eEV3ZppWGJIKiOjw",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.44",
+      "obstacle_pct": "23.44",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "6w5uYd4gxATPbgc6C_peuA",
+    "lat": 13.790652,
+    "lng": 100.601367,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.790652_100.601367_6w5uYd4gxATPbgc6C_peuA_30_2024-11.jpg",
+    "panoId": "6w5uYd4gxATPbgc6C_peuA",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "153.05",
+      "obstacle_pct": "0.0",
+      "damage_pct": "153.05"
+    }
+  },
+  {
+    "id": "AaAOH1d12-bTGx7O1rv8tA",
+    "lat": 13.790741,
+    "lng": 100.601204,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.790741_100.601204_AaAOH1d12-bTGx7O1rv8tA_30_2024-11.jpg",
+    "panoId": "AaAOH1d12-bTGx7O1rv8tA",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "85.6",
+      "obstacle_pct": "74.12",
+      "damage_pct": "11.48"
+    }
+  },
+  {
+    "id": "8M1OnbG9WwEwrLTGqHuA_A",
+    "lat": 13.790831,
+    "lng": 100.601041,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.790831_100.601041_8M1OnbG9WwEwrLTGqHuA_A_30_2024-11.jpg",
+    "panoId": "8M1OnbG9WwEwrLTGqHuA_A",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "249.25",
+      "obstacle_pct": "43.28",
+      "damage_pct": "205.97"
+    }
+  },
+  {
+    "id": "fofm1NRIUMNYppqA5rXxzA",
+    "lat": 13.790855,
+    "lng": 100.600652,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.790855_100.600652_fofm1NRIUMNYppqA5rXxzA_210_2024-11.jpg",
+    "panoId": "fofm1NRIUMNYppqA5rXxzA",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "35.76",
+      "obstacle_pct": "3.57",
+      "damage_pct": "32.19"
+    }
+  },
+  {
+    "id": "0dBjMYDYyWG2reobTdheSQ",
+    "lat": 13.791015,
+    "lng": 100.600716,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.791015_100.600716_0dBjMYDYyWG2reobTdheSQ_30_2024-11.jpg",
+    "panoId": "0dBjMYDYyWG2reobTdheSQ",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "29.3",
+      "obstacle_pct": "29.3",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "oD40OuZn3IwCoh68rnktUQ",
+    "lat": 13.791145,
+    "lng": 100.600133,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.791145_100.600133_oD40OuZn3IwCoh68rnktUQ_210_2024-11.jpg",
+    "panoId": "oD40OuZn3IwCoh68rnktUQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "34.22",
+      "obstacle_pct": "34.22",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "qLMlNY-2kusvp0wFq9PJrw",
+    "lat": 13.791426,
+    "lng": 100.599978,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.791426_100.599978_qLMlNY-2kusvp0wFq9PJrw_30_2024-11.jpg",
+    "panoId": "qLMlNY-2kusvp0wFq9PJrw",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.31",
+      "obstacle_pct": "2.66",
+      "damage_pct": "22.65"
+    }
+  },
+  {
+    "id": "xWRtJutcEmQbLFeuBQCxEg",
+    "lat": 13.791764,
+    "lng": 100.599025,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.791764_100.599025_xWRtJutcEmQbLFeuBQCxEg_210_2024-06.jpg",
+    "panoId": "xWRtJutcEmQbLFeuBQCxEg",
+    "heading": 210,
+    "date": "2024-06",
+    "dateNote": "Note: Data matches image taken on 2024-06 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "41.78",
+      "obstacle_pct": "1.13",
+      "damage_pct": "40.65"
+    }
+  },
+  {
+    "id": "yjCWPbfXkIgcGIDwBb8RZw",
+    "lat": 13.792084,
+    "lng": 100.598452,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.792084_100.598452_yjCWPbfXkIgcGIDwBb8RZw_210_2024-06.jpg",
+    "panoId": "yjCWPbfXkIgcGIDwBb8RZw",
+    "heading": 210,
+    "date": "2024-06",
+    "dateNote": "Note: Data matches image taken on 2024-06 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "45.57",
+      "obstacle_pct": "2.71",
+      "damage_pct": "42.86"
+    }
+  },
+  {
+    "id": "KvGG2hb64zjOvAZaxeBLsw",
+    "lat": 13.792265,
+    "lng": 100.598471,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.792265_100.598471_KvGG2hb64zjOvAZaxeBLsw_30_2024-11.jpg",
+    "panoId": "KvGG2hb64zjOvAZaxeBLsw",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.91",
+      "obstacle_pct": "21.91",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "RdTSZXsQmjlyhsL3MDQwYw",
+    "lat": 13.79265,
+    "lng": 100.597446,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.792650_100.597446_RdTSZXsQmjlyhsL3MDQwYw_210_2024-06.jpg",
+    "panoId": "RdTSZXsQmjlyhsL3MDQwYw",
+    "heading": 210,
+    "date": "2024-06",
+    "dateNote": "Note: Data matches image taken on 2024-06 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.07",
+      "obstacle_pct": "20.05",
+      "damage_pct": "3.02"
+    }
+  },
+  {
+    "id": "F2wlQJTB4oUqeVAh0nHbfg",
+    "lat": 13.793426,
+    "lng": 100.5964,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.793426_100.596400_F2wlQJTB4oUqeVAh0nHbfg_30_2024-11.jpg",
+    "panoId": "F2wlQJTB4oUqeVAh0nHbfg",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "61.3",
+      "obstacle_pct": "48.62",
+      "damage_pct": "12.68"
+    }
+  },
+  {
+    "id": "HGROfZwx5PhWBpj0W5wGoA",
+    "lat": 13.793772,
+    "lng": 100.595751,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.793772_100.595751_HGROfZwx5PhWBpj0W5wGoA_30_2024-11.jpg",
+    "panoId": "HGROfZwx5PhWBpj0W5wGoA",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "26.42",
+      "obstacle_pct": "26.42",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "4Opftc5hUc9wYeXskZf-4Q",
+    "lat": 13.794083,
+    "lng": 100.595183,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.794083_100.595183_4Opftc5hUc9wYeXskZf-4Q_30_2024-11.jpg",
+    "panoId": "4Opftc5hUc9wYeXskZf-4Q",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.93",
+      "obstacle_pct": "20.93",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "4Ql1I1MwlpDnP-CjZA-CdQ",
+    "lat": 13.806119,
+    "lng": 100.573684,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.806119_100.573684_4Ql1I1MwlpDnP-CjZA-CdQ_31_2024-11.jpg",
+    "panoId": "4Ql1I1MwlpDnP-CjZA-CdQ",
+    "heading": 31,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "57.01",
+      "obstacle_pct": "57.01",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "h4AyVauYzmvzc7QoYzbGHQ",
+    "lat": 13.806493,
+    "lng": 100.5731,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.806493_100.573100_h4AyVauYzmvzc7QoYzbGHQ_30_2024-11.jpg",
+    "panoId": "h4AyVauYzmvzc7QoYzbGHQ",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.61",
+      "obstacle_pct": "12.44",
+      "damage_pct": "8.18"
+    }
+  },
+  {
+    "id": "fIxqB6duhSyD7CERkPx21g",
+    "lat": 13.807705,
+    "lng": 100.570838,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.807705_100.570838_fIxqB6duhSyD7CERkPx21g_30_2024-11.jpg",
+    "panoId": "fIxqB6duhSyD7CERkPx21g",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "34.28",
+      "obstacle_pct": "3.55",
+      "damage_pct": "30.73"
+    }
+  },
+  {
+    "id": "Q4HeCZWMLT0igC_6BSXNKw",
+    "lat": 13.809229,
+    "lng": 100.567851,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.809229_100.567851_Q4HeCZWMLT0igC_6BSXNKw_210_2024-11.jpg",
+    "panoId": "Q4HeCZWMLT0igC_6BSXNKw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.67",
+      "obstacle_pct": "20.67",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "YGwj4hHJ2D1NlRoSKEei1g",
+    "lat": 13.812679,
+    "lng": 100.561967,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.812679_100.561967_YGwj4hHJ2D1NlRoSKEei1g_30_2024-11.jpg",
+    "panoId": "YGwj4hHJ2D1NlRoSKEei1g",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "37.59",
+      "obstacle_pct": "37.59",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "tKYCj6FamigFfxHp5ZhnIQ",
+    "lat": 13.813445,
+    "lng": 100.560583,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.813445_100.560583_tKYCj6FamigFfxHp5ZhnIQ_31_2024-11.jpg",
+    "panoId": "tKYCj6FamigFfxHp5ZhnIQ",
+    "heading": 31,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "39.99",
+      "obstacle_pct": "39.99",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "VJmpGneIg-tjSN0GQbmXMA",
+    "lat": 13.795881,
+    "lng": 100.591963,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.795881_100.591963_VJmpGneIg-tjSN0GQbmXMA_29_2024-11.jpg",
+    "panoId": "VJmpGneIg-tjSN0GQbmXMA",
+    "heading": 29,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "75.82",
+      "obstacle_pct": "37.91",
+      "damage_pct": "37.91"
+    }
+  },
+  {
+    "id": "S1haA2V_CfbIn56agVd-pw",
+    "lat": 13.796426,
+    "lng": 100.590697,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.796426_100.590697_S1haA2V_CfbIn56agVd-pw_210_2024-06.jpg",
+    "panoId": "S1haA2V_CfbIn56agVd-pw",
+    "heading": 210,
+    "date": "2024-06",
+    "dateNote": "Note: Data matches image taken on 2024-06 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.66",
+      "obstacle_pct": "20.66",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "KYnz2gy1nS6aAytOGhyq0g",
+    "lat": 13.797032,
+    "lng": 100.589924,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.797032_100.589924_KYnz2gy1nS6aAytOGhyq0g_30_2024-11.jpg",
+    "panoId": "KYnz2gy1nS6aAytOGhyq0g",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "27.88",
+      "obstacle_pct": "27.88",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "25S_dP-0RWpn9PMj1ZoK-w",
+    "lat": 13.797213,
+    "lng": 100.589297,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.797213_100.589297_25S_dP-0RWpn9PMj1ZoK-w_210_2024-06.jpg",
+    "panoId": "25S_dP-0RWpn9PMj1ZoK-w",
+    "heading": 210,
+    "date": "2024-06",
+    "dateNote": "Note: Data matches image taken on 2024-06 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "51.15",
+      "obstacle_pct": "0.0",
+      "damage_pct": "51.15"
+    }
+  },
+  {
+    "id": "CCTn3DkMbirbpQ_42XYvWg",
+    "lat": 13.797732,
+    "lng": 100.588708,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.797732_100.588708_CCTn3DkMbirbpQ_42XYvWg_30_2024-11.jpg",
+    "panoId": "CCTn3DkMbirbpQ_42XYvWg",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.87",
+      "obstacle_pct": "0.0",
+      "damage_pct": "20.87"
+    }
+  },
+  {
+    "id": "Fm6E4-0RoAVtI9A15Or3wA",
+    "lat": 13.798576,
+    "lng": 100.58689,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.798576_100.586890_Fm6E4-0RoAVtI9A15Or3wA_211_2024-11.jpg",
+    "panoId": "Fm6E4-0RoAVtI9A15Or3wA",
+    "heading": 211,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "30.55",
+      "obstacle_pct": "30.55",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "1vmx2nNhb9wLmFsxGBWtkg",
+    "lat": 13.799138,
+    "lng": 100.585866,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.799138_100.585866_1vmx2nNhb9wLmFsxGBWtkg_210_2024-11.jpg",
+    "panoId": "1vmx2nNhb9wLmFsxGBWtkg",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.6",
+      "obstacle_pct": "21.6",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "xO9jDWUXS1HCvx3Ayme76w",
+    "lat": 13.799318,
+    "lng": 100.585541,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.799318_100.585541_xO9jDWUXS1HCvx3Ayme76w_210_2024-11.jpg",
+    "panoId": "xO9jDWUXS1HCvx3Ayme76w",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "46.66",
+      "obstacle_pct": "4.99",
+      "damage_pct": "41.67"
+    }
+  },
+  {
+    "id": "A-9PVJ9v-Nt72Jli-0oCRw",
+    "lat": 13.79941,
+    "lng": 100.585379,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.799410_100.585379_A-9PVJ9v-Nt72Jli-0oCRw_210_2024-11.jpg",
+    "panoId": "A-9PVJ9v-Nt72Jli-0oCRw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.71",
+      "obstacle_pct": "23.71",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "2BXmybqrwSBk9d1hCQ84tQ",
+    "lat": 13.800495,
+    "lng": 100.58344,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.800495_100.583440_2BXmybqrwSBk9d1hCQ84tQ_209_2024-11.jpg",
+    "panoId": "2BXmybqrwSBk9d1hCQ84tQ",
+    "heading": 209,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "31.91",
+      "obstacle_pct": "31.91",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "wkUMwEaZtf1O3LvRUVKvEQ",
+    "lat": 13.800685,
+    "lng": 100.583112,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.800685_100.583112_wkUMwEaZtf1O3LvRUVKvEQ_210_2024-11.jpg",
+    "panoId": "wkUMwEaZtf1O3LvRUVKvEQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "52.65",
+      "obstacle_pct": "4.66",
+      "damage_pct": "47.99"
+    }
+  },
+  {
+    "id": "BO2Oyo_xAKYRH3iv-9a0FQ",
+    "lat": 13.80108,
+    "lng": 100.582678,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.801080_100.582678_BO2Oyo_xAKYRH3iv-9a0FQ_30_2024-11.jpg",
+    "panoId": "BO2Oyo_xAKYRH3iv-9a0FQ",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.86",
+      "obstacle_pct": "23.86",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "FEUWViWcgqYXd8kV-qu_FQ",
+    "lat": 13.801171,
+    "lng": 100.582519,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.801171_100.582519_FEUWViWcgqYXd8kV-qu_FQ_30_2024-11.jpg",
+    "panoId": "FEUWViWcgqYXd8kV-qu_FQ",
+    "heading": 30,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.55",
+      "obstacle_pct": "21.55",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "S7R3lU5hfzZajMkKXFC5uA",
+    "lat": 13.801476,
+    "lng": 100.58168,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.801476_100.581680_S7R3lU5hfzZajMkKXFC5uA_211_2024-11.jpg",
+    "panoId": "S7R3lU5hfzZajMkKXFC5uA",
+    "heading": 211,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "32.58",
+      "obstacle_pct": "32.58",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "YPMr1FkaGpChVkk8qGfBvQ",
+    "lat": 13.801522,
+    "lng": 100.5816,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.801522_100.581600_YPMr1FkaGpChVkk8qGfBvQ_211_2024-11.jpg",
+    "panoId": "YPMr1FkaGpChVkk8qGfBvQ",
+    "heading": 211,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "75.87",
+      "obstacle_pct": "75.87",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "JCEbNc0P6JKVnaDvAa09FQ",
+    "lat": 13.801613,
+    "lng": 100.581438,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.801613_100.581438_JCEbNc0P6JKVnaDvAa09FQ_210_2024-11.jpg",
+    "panoId": "JCEbNc0P6JKVnaDvAa09FQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "26.99",
+      "obstacle_pct": "0.0",
+      "damage_pct": "26.99"
+    }
+  },
+  {
+    "id": "NNhAoE74823WkuMznQEfSQ",
+    "lat": 13.801947,
+    "lng": 100.580828,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.801947_100.580828_NNhAoE74823WkuMznQEfSQ_210_2024-11.jpg",
+    "panoId": "NNhAoE74823WkuMznQEfSQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "75.73",
+      "obstacle_pct": "75.73",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "G-E42osE3uwDDuLSDUn72g",
+    "lat": 13.802041,
+    "lng": 100.580665,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.802041_100.580665_G-E42osE3uwDDuLSDUn72g_210_2024-11.jpg",
+    "panoId": "G-E42osE3uwDDuLSDUn72g",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "54.05",
+      "obstacle_pct": "54.05",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "U9WfUXPLI0V5_2jfhEU4WA",
+    "lat": 13.802134,
+    "lng": 100.580501,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.802134_100.580501_U9WfUXPLI0V5_2jfhEU4WA_210_2024-11.jpg",
+    "panoId": "U9WfUXPLI0V5_2jfhEU4WA",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "84.01",
+      "obstacle_pct": "9.64",
+      "damage_pct": "74.36"
+    }
+  },
+  {
+    "id": "WRG6HGH40JVhPtsBTYOTHA",
+    "lat": 13.802225,
+    "lng": 100.580338,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.802225_100.580338_WRG6HGH40JVhPtsBTYOTHA_210_2024-11.jpg",
+    "panoId": "WRG6HGH40JVhPtsBTYOTHA",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "45.32",
+      "obstacle_pct": "2.53",
+      "damage_pct": "42.79"
+    }
+  },
+  {
+    "id": "QKOLApsfGJ0HN9UEJiVXBw",
+    "lat": 13.802286,
+    "lng": 100.580226,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.802286_100.580226_QKOLApsfGJ0HN9UEJiVXBw_210_2024-11.jpg",
+    "panoId": "QKOLApsfGJ0HN9UEJiVXBw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.09",
+      "obstacle_pct": "16.68",
+      "damage_pct": "8.42"
+    }
+  },
+  {
+    "id": "NKv5WBcuFEav-1xpp7QJxg",
+    "lat": 13.802802,
+    "lng": 100.579308,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.802802_100.579308_NKv5WBcuFEav-1xpp7QJxg_210_2024-11.jpg",
+    "panoId": "NKv5WBcuFEav-1xpp7QJxg",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "46.78",
+      "obstacle_pct": "46.78",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Ac9Ta_Tq6St7Km9fk3WTQw",
+    "lat": 13.803826,
+    "lng": 100.577465,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.803826_100.577465_Ac9Ta_Tq6St7Km9fk3WTQw_210_2024-11.jpg",
+    "panoId": "Ac9Ta_Tq6St7Km9fk3WTQw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "38.86",
+      "obstacle_pct": "38.86",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "OXKF_94KwEBR-kv06VXI6g",
+    "lat": 13.804081,
+    "lng": 100.577004,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.804081_100.577004_OXKF_94KwEBR-kv06VXI6g_210_2024-11.jpg",
+    "panoId": "OXKF_94KwEBR-kv06VXI6g",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.92",
+      "obstacle_pct": "22.67",
+      "damage_pct": "1.26"
+    }
+  },
+  {
+    "id": "Qr3IKAnuAXY3dm_K6Boe3Q",
+    "lat": 13.804836,
+    "lng": 100.575659,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.804836_100.575659_Qr3IKAnuAXY3dm_K6Boe3Q_209_2024-11.jpg",
+    "panoId": "Qr3IKAnuAXY3dm_K6Boe3Q",
+    "heading": 209,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.95",
+      "obstacle_pct": "1.8",
+      "damage_pct": "24.15"
+    }
+  },
+  {
+    "id": "b3DyIkTtekQHFMFdVrUuRw",
+    "lat": 13.804943,
+    "lng": 100.57547,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.804943_100.575470_b3DyIkTtekQHFMFdVrUuRw_210_2024-11.jpg",
+    "panoId": "b3DyIkTtekQHFMFdVrUuRw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "28.44",
+      "obstacle_pct": "0.0",
+      "damage_pct": "28.44"
+    }
+  },
+  {
+    "id": "PnFDRBoAdGh1E6LzAGU6iw",
+    "lat": 13.805118,
+    "lng": 100.575149,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.805118_100.575149_PnFDRBoAdGh1E6LzAGU6iw_209_2024-11.jpg",
+    "panoId": "PnFDRBoAdGh1E6LzAGU6iw",
+    "heading": 209,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "72.34",
+      "obstacle_pct": "72.34",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "BeX76TNQKuRZ0LwXear5pg",
+    "lat": 13.840135,
+    "lng": 100.5751,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.840135_100.575100_BeX76TNQKuRZ0LwXear5pg_30_2025-08.jpg",
+    "panoId": "BeX76TNQKuRZ0LwXear5pg",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "25.05",
+      "obstacle_pct": "1.42",
+      "damage_pct": "23.64"
+    }
+  },
+  {
+    "id": "KoQ_arqJzi9_dwBRZwPyPQ",
+    "lat": 13.840697,
+    "lng": 100.574094,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.840697_100.574094_KoQ_arqJzi9_dwBRZwPyPQ_30_2025-08.jpg",
+    "panoId": "KoQ_arqJzi9_dwBRZwPyPQ",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "35.78",
+      "obstacle_pct": "0.0",
+      "damage_pct": "35.78"
+    }
+  },
+  {
+    "id": "XoNmaNYkXFY4D4YI2vwRvQ",
+    "lat": 13.840789,
+    "lng": 100.573931,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.840789_100.573931_XoNmaNYkXFY4D4YI2vwRvQ_30_2025-08.jpg",
+    "panoId": "XoNmaNYkXFY4D4YI2vwRvQ",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "228.51",
+      "obstacle_pct": "0.0",
+      "damage_pct": "228.51"
+    }
+  },
+  {
+    "id": "GVOuUCw2YItGfckVYLlm9w",
+    "lat": 13.842628,
+    "lng": 100.570516,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.842628_100.570516_GVOuUCw2YItGfckVYLlm9w_30_2025-08.jpg",
+    "panoId": "GVOuUCw2YItGfckVYLlm9w",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "24.89",
+      "obstacle_pct": "24.89",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "ZkcR89HqONqEZTam2xoGPQ",
+    "lat": 13.843982,
+    "lng": 100.568106,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.843982_100.568106_ZkcR89HqONqEZTam2xoGPQ_30_2025-08.jpg",
+    "panoId": "ZkcR89HqONqEZTam2xoGPQ",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "23.26",
+      "obstacle_pct": "23.26",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "RfotNL7Lhq5pahNn253-9Q",
+    "lat": 13.845149,
+    "lng": 100.566016,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.845149_100.566016_RfotNL7Lhq5pahNn253-9Q_30_2025-08.jpg",
+    "panoId": "RfotNL7Lhq5pahNn253-9Q",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "35.71",
+      "obstacle_pct": "35.71",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "FdJypaXH4yWlQ_0_eDLPwQ",
+    "lat": 13.845554,
+    "lng": 100.564846,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.845554_100.564846_FdJypaXH4yWlQ_0_eDLPwQ_210_2024-11.jpg",
+    "panoId": "FdJypaXH4yWlQ_0_eDLPwQ",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.09",
+      "obstacle_pct": "19.09",
+      "damage_pct": "2.0"
+    }
+  },
+  {
+    "id": "5uI-tfvIDWLPN3h8COj-GA",
+    "lat": 13.847396,
+    "lng": 100.562073,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.847396_100.562073_5uI-tfvIDWLPN3h8COj-GA_30_2025-08.jpg",
+    "panoId": "5uI-tfvIDWLPN3h8COj-GA",
+    "heading": 30,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "39.19",
+      "obstacle_pct": "0.0",
+      "damage_pct": "39.19"
+    }
+  },
+  {
+    "id": "bVl2KxYgux2L0aB5rU1ilA",
+    "lat": 13.85001,
+    "lng": 100.556798,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.850010_100.556798_bVl2KxYgux2L0aB5rU1ilA_210_2025-09.jpg",
+    "panoId": "bVl2KxYgux2L0aB5rU1ilA",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "30.32",
+      "obstacle_pct": "1.05",
+      "damage_pct": "29.27"
+    }
+  },
+  {
+    "id": "1refM-fC10UWyy3fMNgI5g",
+    "lat": 13.850186,
+    "lng": 100.556475,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.850186_100.556475_1refM-fC10UWyy3fMNgI5g_210_2025-09.jpg",
+    "panoId": "1refM-fC10UWyy3fMNgI5g",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "34.55",
+      "obstacle_pct": "2.38",
+      "damage_pct": "32.17"
+    }
+  },
+  {
+    "id": "c_s4HPu8qOCMvPHgOpcVBQ",
+    "lat": 13.850363,
+    "lng": 100.556159,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.850363_100.556159_c_s4HPu8qOCMvPHgOpcVBQ_210_2025-09.jpg",
+    "panoId": "c_s4HPu8qOCMvPHgOpcVBQ",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "26.31",
+      "obstacle_pct": "0.77",
+      "damage_pct": "25.54"
+    }
+  },
+  {
+    "id": "yjSx_X26v0Tx7MZXrb87Tg",
+    "lat": 13.851348,
+    "lng": 100.554854,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.851348_100.554854_yjSx_X26v0Tx7MZXrb87Tg_30_2025-09.jpg",
+    "panoId": "yjSx_X26v0Tx7MZXrb87Tg",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "23.46",
+      "obstacle_pct": "23.46",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "FrMEdD0jxEXMSqW-nQilqA",
+    "lat": 13.851441,
+    "lng": 100.554218,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.851441_100.554218_FrMEdD0jxEXMSqW-nQilqA_210_2025-09.jpg",
+    "panoId": "FrMEdD0jxEXMSqW-nQilqA",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "42.28",
+      "obstacle_pct": "1.63",
+      "damage_pct": "40.64"
+    }
+  },
+  {
+    "id": "jy8pDavbJR1o168_Kamkmg",
+    "lat": 13.851849,
+    "lng": 100.553954,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.851849_100.553954_jy8pDavbJR1o168_Kamkmg_30_2025-09.jpg",
+    "panoId": "jy8pDavbJR1o168_Kamkmg",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "50.61",
+      "obstacle_pct": "3.22",
+      "damage_pct": "47.39"
+    }
+  },
+  {
+    "id": "aFkPhdlvH1tPpRJsVBYyFA",
+    "lat": 13.852008,
+    "lng": 100.553192,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852008_100.553192_aFkPhdlvH1tPpRJsVBYyFA_210_2025-09.jpg",
+    "panoId": "aFkPhdlvH1tPpRJsVBYyFA",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "32.58",
+      "obstacle_pct": "14.07",
+      "damage_pct": "18.51"
+    }
+  },
+  {
+    "id": "bGKdcRKQBVmY6QH8eAP1-A",
+    "lat": 13.852009,
+    "lng": 100.553659,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852009_100.553659_bGKdcRKQBVmY6QH8eAP1-A_30_2025-09.jpg",
+    "panoId": "bGKdcRKQBVmY6QH8eAP1-A",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "29.75",
+      "obstacle_pct": "0.79",
+      "damage_pct": "28.97"
+    }
+  },
+  {
+    "id": "vhnoEvgF5TV2CctN8KGNUw",
+    "lat": 13.852032,
+    "lng": 100.553618,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852032_100.553618_vhnoEvgF5TV2CctN8KGNUw_30_2025-09.jpg",
+    "panoId": "vhnoEvgF5TV2CctN8KGNUw",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "20.38",
+      "obstacle_pct": "0.0",
+      "damage_pct": "20.38"
+    }
+  },
+  {
+    "id": "6Z2rG3BzQkkMSOr2-Skasw",
+    "lat": 13.852102,
+    "lng": 100.553494,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.852102_100.553494_6Z2rG3BzQkkMSOr2-Skasw_30_2025-09.jpg",
+    "panoId": "6Z2rG3BzQkkMSOr2-Skasw",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "41.75",
+      "obstacle_pct": "2.27",
+      "damage_pct": "39.48"
+    }
+  },
+  {
+    "id": "2fzd1S2I5tptg2milxG3Ag",
+    "lat": 13.85215,
+    "lng": 100.55341,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852150_100.553410_2fzd1S2I5tptg2milxG3Ag_30_2025-09.jpg",
+    "panoId": "2fzd1S2I5tptg2milxG3Ag",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "34.22",
+      "obstacle_pct": "5.88",
+      "damage_pct": "28.35"
+    }
+  },
+  {
+    "id": "q8QsyQklz4QRUhSnVto7cg",
+    "lat": 13.852236,
+    "lng": 100.553257,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852236_100.553257_q8QsyQklz4QRUhSnVto7cg_30_2025-09.jpg",
+    "panoId": "q8QsyQklz4QRUhSnVto7cg",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "29.05",
+      "obstacle_pct": "3.26",
+      "damage_pct": "25.79"
+    }
+  },
+  {
+    "id": "5YVZgmv_0Xmj1ZmnYWXa3A",
+    "lat": 13.852237,
+    "lng": 100.552784,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852237_100.552784_5YVZgmv_0Xmj1ZmnYWXa3A_210_2025-09.jpg",
+    "panoId": "5YVZgmv_0Xmj1ZmnYWXa3A",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "26.57",
+      "obstacle_pct": "1.7",
+      "damage_pct": "24.87"
+    }
+  },
+  {
+    "id": "GPtyVZux-dbHadhQCY8iYg",
+    "lat": 13.852282,
+    "lng": 100.553175,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852282_100.553175_GPtyVZux-dbHadhQCY8iYg_30_2025-09.jpg",
+    "panoId": "GPtyVZux-dbHadhQCY8iYg",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "27.91",
+      "obstacle_pct": "0.81",
+      "damage_pct": "27.1"
+    }
+  },
+  {
+    "id": "wBqU-CIM1Btfg21bNSBuRQ",
+    "lat": 13.852396,
+    "lng": 100.552966,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852396_100.552966_wBqU-CIM1Btfg21bNSBuRQ_30_2025-09.jpg",
+    "panoId": "wBqU-CIM1Btfg21bNSBuRQ",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "21.78",
+      "obstacle_pct": "4.81",
+      "damage_pct": "16.97"
+    }
+  },
+  {
+    "id": "SkvVc7srCBwB_fl835h-xQ",
+    "lat": 13.852419,
+    "lng": 100.552924,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.852419_100.552924_SkvVc7srCBwB_fl835h-xQ_30_2025-09.jpg",
+    "panoId": "SkvVc7srCBwB_fl835h-xQ",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "41.12",
+      "obstacle_pct": "6.69",
+      "damage_pct": "34.43"
+    }
+  },
+  {
+    "id": "SENYZTxq6YnbS2g20LJiaA",
+    "lat": 13.85264,
+    "lng": 100.552051,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.852640_100.552051_SENYZTxq6YnbS2g20LJiaA_210_2025-09.jpg",
+    "panoId": "SENYZTxq6YnbS2g20LJiaA",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "35.34",
+      "obstacle_pct": "0.0",
+      "damage_pct": "35.34"
+    }
+  },
+  {
+    "id": "2oM4vyM-62nCdDkztFf0tA",
+    "lat": 13.852843,
+    "lng": 100.552161,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852843_100.552161_2oM4vyM-62nCdDkztFf0tA_30_2025-09.jpg",
+    "panoId": "2oM4vyM-62nCdDkztFf0tA",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "30.26",
+      "obstacle_pct": "1.41",
+      "damage_pct": "28.85"
+    }
+  },
+  {
+    "id": "VEMsYEdBbMmI3Mqb0kIstg",
+    "lat": 13.852977,
+    "lng": 100.551446,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.852977_100.551446_VEMsYEdBbMmI3Mqb0kIstg_210_2025-09.jpg",
+    "panoId": "VEMsYEdBbMmI3Mqb0kIstg",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "26.19",
+      "obstacle_pct": "13.09",
+      "damage_pct": "13.09"
+    }
+  },
+  {
+    "id": "xj7SBfcdOaxkiADc_e4rjA",
+    "lat": 13.853068,
+    "lng": 100.551766,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.853068_100.551766_xj7SBfcdOaxkiADc_e4rjA_30_2025-09.jpg",
+    "panoId": "xj7SBfcdOaxkiADc_e4rjA",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "33.62",
+      "obstacle_pct": "18.21",
+      "damage_pct": "15.41"
+    }
+  },
+  {
+    "id": "9kRZn23iPko-wE_I-CPoKw",
+    "lat": 13.85319,
+    "lng": 100.551551,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.853190_100.551551_9kRZn23iPko-wE_I-CPoKw_30_2025-09.jpg",
+    "panoId": "9kRZn23iPko-wE_I-CPoKw",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "28.31",
+      "obstacle_pct": "28.31",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "bNyJeTeSCN6LBWAQQxvgPQ",
+    "lat": 13.853218,
+    "lng": 100.551508,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.853218_100.551508_bNyJeTeSCN6LBWAQQxvgPQ_30_2025-09.jpg",
+    "panoId": "bNyJeTeSCN6LBWAQQxvgPQ",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "21.85",
+      "obstacle_pct": "21.85",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Id32CDLbvLSYo9xsOYdngg",
+    "lat": 13.853777,
+    "lng": 100.550025,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.853777_100.550025_Id32CDLbvLSYo9xsOYdngg_210_2025-09.jpg",
+    "panoId": "Id32CDLbvLSYo9xsOYdngg",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "31.68",
+      "obstacle_pct": "6.8",
+      "damage_pct": "24.89"
+    }
+  },
+  {
+    "id": "Y-VuJJBr_JfjFqcOpG_9Fg",
+    "lat": 13.853911,
+    "lng": 100.549781,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.853911_100.549781_Y-VuJJBr_JfjFqcOpG_9Fg_209_2025-09.jpg",
+    "panoId": "Y-VuJJBr_JfjFqcOpG_9Fg",
+    "heading": 209,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "27.63",
+      "obstacle_pct": "17.3",
+      "damage_pct": "10.33"
+    }
+  },
+  {
+    "id": "b6VnZtPlS_JAU3X2X3O0iQ",
+    "lat": 13.854405,
+    "lng": 100.549396,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.854405_100.549396_b6VnZtPlS_JAU3X2X3O0iQ_30_2025-09.jpg",
+    "panoId": "b6VnZtPlS_JAU3X2X3O0iQ",
+    "heading": 30,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "25.62",
+      "obstacle_pct": "25.62",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "DXHHbnZarZ-qqiQfxxW0SA",
+    "lat": 13.854791,
+    "lng": 100.548164,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.854791_100.548164_DXHHbnZarZ-qqiQfxxW0SA_210_2025-09.jpg",
+    "panoId": "DXHHbnZarZ-qqiQfxxW0SA",
+    "heading": 210,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "23.6",
+      "obstacle_pct": "0.0",
+      "damage_pct": "23.6"
+    }
+  },
+  {
+    "id": "0tIt_0KZormB3ZpU3Od3Yg",
+    "lat": 13.80566,
+    "lng": 100.555691,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.805660_100.555691_0tIt_0KZormB3ZpU3Od3Yg_119_2025-09.jpg",
+    "panoId": "0tIt_0KZormB3ZpU3Od3Yg",
+    "heading": 119,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "25.92",
+      "obstacle_pct": "25.92",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "6FxWt5H8mvp1ZKjs1be6-w",
+    "lat": 13.81136,
+    "lng": 100.558702,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.811360_100.558702_6FxWt5H8mvp1ZKjs1be6-w_297_2025-09.jpg",
+    "panoId": "6FxWt5H8mvp1ZKjs1be6-w",
+    "heading": 297,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "37.47",
+      "obstacle_pct": "0.0",
+      "damage_pct": "37.47"
+    }
+  },
+  {
+    "id": "XwaQKXR440nH6QooKAYPqg",
+    "lat": 13.814547,
+    "lng": 100.560902,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.814547_100.560902_XwaQKXR440nH6QooKAYPqg_120_2024-11.jpg",
+    "panoId": "XwaQKXR440nH6QooKAYPqg",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.08",
+      "obstacle_pct": "21.08",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "LZca0RtGnrSI9t2eavHI7w",
+    "lat": 13.81585,
+    "lng": 100.561672,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.815850_100.561672_LZca0RtGnrSI9t2eavHI7w_124_2024-11.jpg",
+    "panoId": "LZca0RtGnrSI9t2eavHI7w",
+    "heading": 124,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.54",
+      "obstacle_pct": "24.54",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "q3YEIyj8rqcbhYr_McSqag",
+    "lat": 13.816018,
+    "lng": 100.561562,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.816018_100.561562_q3YEIyj8rqcbhYr_McSqag_300_2024-11.jpg",
+    "panoId": "q3YEIyj8rqcbhYr_McSqag",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "37.03",
+      "obstacle_pct": "37.03",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "_2futTPhzGiseKXKgZCsow",
+    "lat": 13.816932,
+    "lng": 100.562317,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.816932_100.562317__2futTPhzGiseKXKgZCsow_119_2024-11.jpg",
+    "panoId": "_2futTPhzGiseKXKgZCsow",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.84",
+      "obstacle_pct": "25.84",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "c28h9lXn-3F8irS0QXM6Gw",
+    "lat": 13.817556,
+    "lng": 100.562475,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.817556_100.562475_c28h9lXn-3F8irS0QXM6Gw_299_2025-09.jpg",
+    "panoId": "c28h9lXn-3F8irS0QXM6Gw",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "22.17",
+      "obstacle_pct": "22.17",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "OzZPiQKBRVBuLYEZEAJRjA",
+    "lat": 13.817941,
+    "lng": 100.562921,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.817941_100.562921_OzZPiQKBRVBuLYEZEAJRjA_120_2024-11.jpg",
+    "panoId": "OzZPiQKBRVBuLYEZEAJRjA",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.38",
+      "obstacle_pct": "22.38",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "jTBKuzRgIBmAEMNQnZJEQw",
+    "lat": 13.81814,
+    "lng": 100.563037,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.818140_100.563037_jTBKuzRgIBmAEMNQnZJEQw_120_2024-11.jpg",
+    "panoId": "jTBKuzRgIBmAEMNQnZJEQw",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.67",
+      "obstacle_pct": "22.67",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "ybr0lOQ2ahoSLIQtXfnhJA",
+    "lat": 13.818292,
+    "lng": 100.562919,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.818292_100.562919_ybr0lOQ2ahoSLIQtXfnhJA_299_2025-09.jpg",
+    "panoId": "ybr0lOQ2ahoSLIQtXfnhJA",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "66.35",
+      "obstacle_pct": "64.44",
+      "damage_pct": "1.91"
+    }
+  },
+  {
+    "id": "jvLjYJIb9ymkcVnCh5F31g",
+    "lat": 13.818452,
+    "lng": 100.563011,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.818452_100.563011_jvLjYJIb9ymkcVnCh5F31g_299_2025-09.jpg",
+    "panoId": "jvLjYJIb9ymkcVnCh5F31g",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "26.5",
+      "obstacle_pct": "12.47",
+      "damage_pct": "14.02"
+    }
+  },
+  {
+    "id": "YaJ_7edg5yxHeMnEd8_vYg",
+    "lat": 13.818532,
+    "lng": 100.563058,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.818532_100.563058_YaJ_7edg5yxHeMnEd8_vYg_299_2025-09.jpg",
+    "panoId": "YaJ_7edg5yxHeMnEd8_vYg",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "24.34",
+      "obstacle_pct": "24.34",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "QTpUweLrIXnqoc95rNKjvQ",
+    "lat": 13.818611,
+    "lng": 100.563105,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.818611_100.563105_QTpUweLrIXnqoc95rNKjvQ_299_2025-09.jpg",
+    "panoId": "QTpUweLrIXnqoc95rNKjvQ",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "47.3",
+      "obstacle_pct": "14.33",
+      "damage_pct": "32.97"
+    }
+  },
+  {
+    "id": "ZnbJbQTZYv86JC2d7cF-Fw",
+    "lat": 13.818691,
+    "lng": 100.563152,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.818691_100.563152_ZnbJbQTZYv86JC2d7cF-Fw_299_2025-09.jpg",
+    "panoId": "ZnbJbQTZYv86JC2d7cF-Fw",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "94.49",
+      "obstacle_pct": "20.22",
+      "damage_pct": "74.27"
+    }
+  },
+  {
+    "id": "Z_YxHAFtcA8HD0qyBb0lnQ",
+    "lat": 13.81877,
+    "lng": 100.563198,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.818770_100.563198_Z_YxHAFtcA8HD0qyBb0lnQ_299_2025-09.jpg",
+    "panoId": "Z_YxHAFtcA8HD0qyBb0lnQ",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "105.8",
+      "obstacle_pct": "24.07",
+      "damage_pct": "81.72"
+    }
+  },
+  {
+    "id": "aoD5PkSgfV2bJQJ0llgMgQ",
+    "lat": 13.819008,
+    "lng": 100.563338,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.819008_100.563338_aoD5PkSgfV2bJQJ0llgMgQ_301_2025-09.jpg",
+    "panoId": "aoD5PkSgfV2bJQJ0llgMgQ",
+    "heading": 301,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "66.02",
+      "obstacle_pct": "14.4",
+      "damage_pct": "51.62"
+    }
+  },
+  {
+    "id": "2Weimya3JBQSkv5HccP2yw",
+    "lat": 13.819086,
+    "lng": 100.563384,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.819086_100.563384_2Weimya3JBQSkv5HccP2yw_301_2024-01.jpg",
+    "panoId": "2Weimya3JBQSkv5HccP2yw",
+    "heading": 301,
+    "date": "2024-01",
+    "dateNote": "Note: Data matches image taken on 2024-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "27.57",
+      "obstacle_pct": "27.57",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "RmuJhQZvBRTKZmb5QdEwcg",
+    "lat": 13.819124,
+    "lng": 100.563406,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.819124_100.563406_RmuJhQZvBRTKZmb5QdEwcg_301_2025-09.jpg",
+    "panoId": "RmuJhQZvBRTKZmb5QdEwcg",
+    "heading": 301,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "43.22",
+      "obstacle_pct": "43.22",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Eij51PpQEUi1tWjgRTjqCw",
+    "lat": 13.819198,
+    "lng": 100.56345,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.819198_100.563450_Eij51PpQEUi1tWjgRTjqCw_301_2025-09.jpg",
+    "panoId": "Eij51PpQEUi1tWjgRTjqCw",
+    "heading": 301,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "77.57",
+      "obstacle_pct": "63.31",
+      "damage_pct": "14.26"
+    }
+  },
+  {
+    "id": "PDIke0x8t90QdM9uSuh2YQ",
+    "lat": 13.819991,
+    "lng": 100.563936,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.819991_100.563936_PDIke0x8t90QdM9uSuh2YQ_301_2025-09.jpg",
+    "panoId": "PDIke0x8t90QdM9uSuh2YQ",
+    "heading": 301,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "39.77",
+      "obstacle_pct": "18.3",
+      "damage_pct": "21.47"
+    }
+  },
+  {
+    "id": "9HwBI_u3Hdz-hU2AIttRqQ",
+    "lat": 13.820151,
+    "lng": 100.564034,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.820151_100.564034_9HwBI_u3Hdz-hU2AIttRqQ_300_2024-11.jpg",
+    "panoId": "9HwBI_u3Hdz-hU2AIttRqQ",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.41",
+      "obstacle_pct": "20.41",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "JvyPJN7woX7ZOEF37kRrDg",
+    "lat": 13.820233,
+    "lng": 100.564079,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.820233_100.564079_JvyPJN7woX7ZOEF37kRrDg_300_2025-09.jpg",
+    "panoId": "JvyPJN7woX7ZOEF37kRrDg",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "25.46",
+      "obstacle_pct": "25.46",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "fsIUPIeBMPq8ZKEfTOtFuw",
+    "lat": 13.820401,
+    "lng": 100.564161,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.820401_100.564161_fsIUPIeBMPq8ZKEfTOtFuw_300_2025-09.jpg",
+    "panoId": "fsIUPIeBMPq8ZKEfTOtFuw",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "33.77",
+      "obstacle_pct": "21.57",
+      "damage_pct": "12.2"
+    }
+  },
+  {
+    "id": "F5f2iVDgNaIubIWUs50m9Q",
+    "lat": 13.820483,
+    "lng": 100.564206,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.820483_100.564206_F5f2iVDgNaIubIWUs50m9Q_300_2025-09.jpg",
+    "panoId": "F5f2iVDgNaIubIWUs50m9Q",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "25.61",
+      "obstacle_pct": "18.08",
+      "damage_pct": "7.53"
+    }
+  },
+  {
+    "id": "jEyAtW3lcWF6U9xLHwfU7g",
+    "lat": 13.821966,
+    "lng": 100.565075,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.821966_100.565075_jEyAtW3lcWF6U9xLHwfU7g_300_2025-09.jpg",
+    "panoId": "jEyAtW3lcWF6U9xLHwfU7g",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "158.61",
+      "obstacle_pct": "3.8",
+      "damage_pct": "154.81"
+    }
+  },
+  {
+    "id": "Cbtq2QnmyYlMHfA1E8vffg",
+    "lat": 13.822169,
+    "lng": 100.565198,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.822169_100.565198_Cbtq2QnmyYlMHfA1E8vffg_300_2024-11.jpg",
+    "panoId": "Cbtq2QnmyYlMHfA1E8vffg",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.37",
+      "obstacle_pct": "17.66",
+      "damage_pct": "3.71"
+    }
+  },
+  {
+    "id": "_9qMdhV3ozuHZwY39TOtsw",
+    "lat": 13.822209,
+    "lng": 100.565223,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.822209_100.565223__9qMdhV3ozuHZwY39TOtsw_300_2025-09.jpg",
+    "panoId": "_9qMdhV3ozuHZwY39TOtsw",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "29.63",
+      "obstacle_pct": "28.16",
+      "damage_pct": "1.47"
+    }
+  },
+  {
+    "id": "9PTQzV1Stk891-8zZwZd0g",
+    "lat": 13.822404,
+    "lng": 100.565354,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.822404_100.565354_9PTQzV1Stk891-8zZwZd0g_300_2025-09.jpg",
+    "panoId": "9PTQzV1Stk891-8zZwZd0g",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "37.62",
+      "obstacle_pct": "5.48",
+      "damage_pct": "32.13"
+    }
+  },
+  {
+    "id": "hMrK-Q73A3TAQcvrd2yRmQ",
+    "lat": 13.822644,
+    "lng": 100.565491,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.822644_100.565491_hMrK-Q73A3TAQcvrd2yRmQ_299_2025-09.jpg",
+    "panoId": "hMrK-Q73A3TAQcvrd2yRmQ",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "23.58",
+      "obstacle_pct": "9.73",
+      "damage_pct": "13.85"
+    }
+  },
+  {
+    "id": "1WsiPQsrnGllRvL8F3JpuQ",
+    "lat": 13.822722,
+    "lng": 100.56553,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.822722_100.565530_1WsiPQsrnGllRvL8F3JpuQ_299_2025-09.jpg",
+    "panoId": "1WsiPQsrnGllRvL8F3JpuQ",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "23.15",
+      "obstacle_pct": "14.59",
+      "damage_pct": "8.56"
+    }
+  },
+  {
+    "id": "MBbvNAPKixAEQQl6FZiU1g",
+    "lat": 13.822873,
+    "lng": 100.565614,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.822873_100.565614_MBbvNAPKixAEQQl6FZiU1g_299_2025-09.jpg",
+    "panoId": "MBbvNAPKixAEQQl6FZiU1g",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "111.07",
+      "obstacle_pct": "34.1",
+      "damage_pct": "76.97"
+    }
+  },
+  {
+    "id": "Y51Fyu5v-5mDTIlLPHzHAA",
+    "lat": 13.823055,
+    "lng": 100.56571,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.823055_100.565710_Y51Fyu5v-5mDTIlLPHzHAA_299_2025-09.jpg",
+    "panoId": "Y51Fyu5v-5mDTIlLPHzHAA",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "48.11",
+      "obstacle_pct": "4.41",
+      "damage_pct": "43.7"
+    }
+  },
+  {
+    "id": "vpLChH9pPbs2Raqd5LJcPg",
+    "lat": 13.823229,
+    "lng": 100.565818,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.823229_100.565818_vpLChH9pPbs2Raqd5LJcPg_299_2025-09.jpg",
+    "panoId": "vpLChH9pPbs2Raqd5LJcPg",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "29.52",
+      "obstacle_pct": "29.52",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "btFUAhojmMFK79688q8FFQ",
+    "lat": 13.823697,
+    "lng": 100.566093,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.823697_100.566093_btFUAhojmMFK79688q8FFQ_299_2025-09.jpg",
+    "panoId": "btFUAhojmMFK79688q8FFQ",
+    "heading": 299,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "24.1",
+      "obstacle_pct": "24.1",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "KRY6j7TnXYE8aCUMW9UtTg",
+    "lat": 13.823833,
+    "lng": 100.566353,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.823833_100.566353_KRY6j7TnXYE8aCUMW9UtTg_121_2024-11.jpg",
+    "panoId": "KRY6j7TnXYE8aCUMW9UtTg",
+    "heading": 121,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "32.9",
+      "obstacle_pct": "32.9",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "i3mwyI6TuklDb_6BzW02eA",
+    "lat": 13.824511,
+    "lng": 100.566755,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.824511_100.566755_i3mwyI6TuklDb_6BzW02eA_119_2024-11.jpg",
+    "panoId": "i3mwyI6TuklDb_6BzW02eA",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "41.25",
+      "obstacle_pct": "41.25",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "SVdzK0Pgrapmz7BWANuHBg",
+    "lat": 13.825399,
+    "lng": 100.567072,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.825399_100.567072_SVdzK0Pgrapmz7BWANuHBg_300_2025-09.jpg",
+    "panoId": "SVdzK0Pgrapmz7BWANuHBg",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "94.1",
+      "obstacle_pct": "60.69",
+      "damage_pct": "33.41"
+    }
+  },
+  {
+    "id": "t4sUyhUjHH6re03BXHTPvA",
+    "lat": 13.825478,
+    "lng": 100.567118,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.825478_100.567118_t4sUyhUjHH6re03BXHTPvA_300_2025-09.jpg",
+    "panoId": "t4sUyhUjHH6re03BXHTPvA",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "123.92",
+      "obstacle_pct": "9.56",
+      "damage_pct": "114.36"
+    }
+  },
+  {
+    "id": "UP-5uZJUCHSZZ0Bc8os9dw",
+    "lat": 13.825556,
+    "lng": 100.567163,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.825556_100.567163_UP-5uZJUCHSZZ0Bc8os9dw_300_2025-09.jpg",
+    "panoId": "UP-5uZJUCHSZZ0Bc8os9dw",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "39.62",
+      "obstacle_pct": "31.17",
+      "damage_pct": "8.46"
+    }
+  },
+  {
+    "id": "kUtIeBtnSAN9nsKGlkAxEg",
+    "lat": 13.825787,
+    "lng": 100.567302,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.825787_100.567302_kUtIeBtnSAN9nsKGlkAxEg_300_2025-09.jpg",
+    "panoId": "kUtIeBtnSAN9nsKGlkAxEg",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "35.36",
+      "obstacle_pct": "7.83",
+      "damage_pct": "27.53"
+    }
+  },
+  {
+    "id": "W0jUwmOy4ZcQeMjPL9mttw",
+    "lat": 13.825862,
+    "lng": 100.567344,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.825862_100.567344_W0jUwmOy4ZcQeMjPL9mttw_297_2025-09.jpg",
+    "panoId": "W0jUwmOy4ZcQeMjPL9mttw",
+    "heading": 297,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "35.86",
+      "obstacle_pct": "16.37",
+      "damage_pct": "19.49"
+    }
+  },
+  {
+    "id": "mBkWkUqIo2MOfi0n-A3IOA",
+    "lat": 13.825951,
+    "lng": 100.567392,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.825951_100.567392_mBkWkUqIo2MOfi0n-A3IOA_300_2025-09.jpg",
+    "panoId": "mBkWkUqIo2MOfi0n-A3IOA",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "54.75",
+      "obstacle_pct": "0.0",
+      "damage_pct": "54.75"
+    }
+  },
+  {
+    "id": "UkRNzgAaX2ddadWtkPRaGw",
+    "lat": 13.826049,
+    "lng": 100.567451,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.826049_100.567451_UkRNzgAaX2ddadWtkPRaGw_298_2025-09.jpg",
+    "panoId": "UkRNzgAaX2ddadWtkPRaGw",
+    "heading": 298,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "92.65",
+      "obstacle_pct": "37.73",
+      "damage_pct": "54.92"
+    }
+  },
+  {
+    "id": "-CTljs0db6c2NgPNogNy0g",
+    "lat": 13.826136,
+    "lng": 100.567501,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.826136_100.567501_-CTljs0db6c2NgPNogNy0g_298_2025-09.jpg",
+    "panoId": "-CTljs0db6c2NgPNogNy0g",
+    "heading": 298,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "127.77",
+      "obstacle_pct": "6.93",
+      "damage_pct": "120.84"
+    }
+  },
+  {
+    "id": "KbNiPA-MJUFm1lUicuTfHg",
+    "lat": 13.826219,
+    "lng": 100.567549,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.826219_100.567549_KbNiPA-MJUFm1lUicuTfHg_300_2025-09.jpg",
+    "panoId": "KbNiPA-MJUFm1lUicuTfHg",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "20.97",
+      "obstacle_pct": "0.31",
+      "damage_pct": "20.66"
+    }
+  },
+  {
+    "id": "DsZE0DuOwqQP_scQq1br3w",
+    "lat": 13.826259,
+    "lng": 100.567572,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.826259_100.567572_DsZE0DuOwqQP_scQq1br3w_300_2025-09.jpg",
+    "panoId": "DsZE0DuOwqQP_scQq1br3w",
+    "heading": 300,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "120.2",
+      "obstacle_pct": "7.24",
+      "damage_pct": "112.96"
+    }
+  },
+  {
+    "id": "DAzBtZjNChQ98lRcuq7t6A",
+    "lat": 13.826327,
+    "lng": 100.567613,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.826327_100.567613_DAzBtZjNChQ98lRcuq7t6A_302_2025-09.jpg",
+    "panoId": "DAzBtZjNChQ98lRcuq7t6A",
+    "heading": 302,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "250.59",
+      "obstacle_pct": "2.55",
+      "damage_pct": "248.04"
+    }
+  },
+  {
+    "id": "2CJ8AXdwO_KhIK3sr2804g",
+    "lat": 13.826396,
+    "lng": 100.567665,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.826396_100.567665_2CJ8AXdwO_KhIK3sr2804g_307_2025-09.jpg",
+    "panoId": "2CJ8AXdwO_KhIK3sr2804g",
+    "heading": 307,
+    "date": "2025-09",
+    "dateNote": "Image Date: 2025-09",
+    "raw": {
+      "total_blocked_pct": "65.15",
+      "obstacle_pct": "1.54",
+      "damage_pct": "63.61"
+    }
+  },
+  {
+    "id": "LEqjfrnO2oOqOV_hDM6ecA",
+    "lat": 13.826439,
+    "lng": 100.567699,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.826439_100.567699_LEqjfrnO2oOqOV_hDM6ecA_300_2024-07.jpg",
+    "panoId": "LEqjfrnO2oOqOV_hDM6ecA",
+    "heading": 300,
+    "date": "2024-07",
+    "dateNote": "Note: Data matches image taken on 2024-07 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "70.94",
+      "obstacle_pct": "25.31",
+      "damage_pct": "45.63"
+    }
+  },
+  {
+    "id": "0SAQN79StBfVtMVTw01M-Q",
+    "lat": 13.842722,
+    "lng": 100.577478,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.842722_100.577478_0SAQN79StBfVtMVTw01M-Q_119_2024-11.jpg",
+    "panoId": "0SAQN79StBfVtMVTw01M-Q",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.61",
+      "obstacle_pct": "21.61",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "GxJKZpDroG_iJv4u-1rBvA",
+    "lat": 13.842879,
+    "lng": 100.577571,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.842879_100.577571_GxJKZpDroG_iJv4u-1rBvA_119_2024-11.jpg",
+    "panoId": "GxJKZpDroG_iJv4u-1rBvA",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "60.9",
+      "obstacle_pct": "60.9",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "2dzWavW87LEJx3xFVV-YVg",
+    "lat": 13.844993,
+    "lng": 100.578816,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.844993_100.578816_2dzWavW87LEJx3xFVV-YVg_119_2024-11.jpg",
+    "panoId": "2dzWavW87LEJx3xFVV-YVg",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.89",
+      "obstacle_pct": "20.89",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Cr4aXe8xuUkMnUgsWYIHeA",
+    "lat": 13.845392,
+    "lng": 100.578825,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.845392_100.578825_Cr4aXe8xuUkMnUgsWYIHeA_300_2025-08.jpg",
+    "panoId": "Cr4aXe8xuUkMnUgsWYIHeA",
+    "heading": 300,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "27.83",
+      "obstacle_pct": "27.83",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "KTRXed5pNWWjoDHjy4GjzQ",
+    "lat": 13.849207,
+    "lng": 100.581097,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.849207_100.581097_KTRXed5pNWWjoDHjy4GjzQ_300_2025-08.jpg",
+    "panoId": "KTRXed5pNWWjoDHjy4GjzQ",
+    "heading": 300,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "28.42",
+      "obstacle_pct": "5.78",
+      "damage_pct": "22.64"
+    }
+  },
+  {
+    "id": "BTd8rh-8XaNmCYM1WI2_-w",
+    "lat": 13.849774,
+    "lng": 100.581624,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.849774_100.581624_BTd8rh-8XaNmCYM1WI2_-w_120_2024-11.jpg",
+    "panoId": "BTd8rh-8XaNmCYM1WI2_-w",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "51.66",
+      "obstacle_pct": "0.0",
+      "damage_pct": "51.66"
+    }
+  },
+  {
+    "id": "5-jRkjPRkoh8AiF1MnaE9A",
+    "lat": 13.849933,
+    "lng": 100.581715,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.849933_100.581715_5-jRkjPRkoh8AiF1MnaE9A_120_2024-11.jpg",
+    "panoId": "5-jRkjPRkoh8AiF1MnaE9A",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "37.8",
+      "obstacle_pct": "37.8",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "dcbg_uDU7MP7LFILYyNQFA",
+    "lat": 13.850118,
+    "lng": 100.581637,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.850118_100.581637_dcbg_uDU7MP7LFILYyNQFA_300_2025-08.jpg",
+    "panoId": "dcbg_uDU7MP7LFILYyNQFA",
+    "heading": 300,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "22.46",
+      "obstacle_pct": "22.46",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "bBOa4Qn2rW6rHf4NGevDPQ",
+    "lat": 13.85049,
+    "lng": 100.582043,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.850490_100.582043_bBOa4Qn2rW6rHf4NGevDPQ_120_2024-11.jpg",
+    "panoId": "bBOa4Qn2rW6rHf4NGevDPQ",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.05",
+      "obstacle_pct": "20.05",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "iY5UPgotsYuK6TO3wXcezw",
+    "lat": 13.85092,
+    "lng": 100.582101,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.850920_100.582101_iY5UPgotsYuK6TO3wXcezw_300_2025-08.jpg",
+    "panoId": "iY5UPgotsYuK6TO3wXcezw",
+    "heading": 300,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "26.45",
+      "obstacle_pct": "26.45",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "YXRSZ2n1-nzn6QbsjzFRgg",
+    "lat": 13.854318,
+    "lng": 100.584271,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.854318_100.584271_YXRSZ2n1-nzn6QbsjzFRgg_121_2024-11.jpg",
+    "panoId": "YXRSZ2n1-nzn6QbsjzFRgg",
+    "heading": 121,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "30.63",
+      "obstacle_pct": "30.63",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "IP7x-y7Fft4OzKvgBbhPGw",
+    "lat": 13.855521,
+    "lng": 100.584808,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.855521_100.584808_IP7x-y7Fft4OzKvgBbhPGw_303_2025-08.jpg",
+    "panoId": "IP7x-y7Fft4OzKvgBbhPGw",
+    "heading": 303,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "27.35",
+      "obstacle_pct": "27.35",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Sq9Wk-Ms4Wg_HYWcv_5IbQ",
+    "lat": 13.85584,
+    "lng": 100.585006,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.855840_100.585006_Sq9Wk-Ms4Wg_HYWcv_5IbQ_301_2025-08.jpg",
+    "panoId": "Sq9Wk-Ms4Wg_HYWcv_5IbQ",
+    "heading": 301,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "60.6",
+      "obstacle_pct": "60.6",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "DoibWQErOGd0jhEdvgK1Rw",
+    "lat": 13.856351,
+    "lng": 100.585462,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.856351_100.585462_DoibWQErOGd0jhEdvgK1Rw_119_2024-11.jpg",
+    "panoId": "DoibWQErOGd0jhEdvgK1Rw",
+    "heading": 119,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.16",
+      "obstacle_pct": "25.16",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "ECTIs82pO07BZwMvHIEU6w",
+    "lat": 13.867174,
+    "lng": 100.591638,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.867174_100.591638_ECTIs82pO07BZwMvHIEU6w_300_2025-08.jpg",
+    "panoId": "ECTIs82pO07BZwMvHIEU6w",
+    "heading": 300,
+    "date": "2025-08",
+    "dateNote": "Image Date: 2025-08",
+    "raw": {
+      "total_blocked_pct": "21.58",
+      "obstacle_pct": "21.58",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "_jugSOcen-snk4rs4L26NQ",
+    "lat": 13.867357,
+    "lng": 100.591969,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.867357_100.591969__jugSOcen-snk4rs4L26NQ_120_2025-01.jpg",
+    "panoId": "_jugSOcen-snk4rs4L26NQ",
+    "heading": 120,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "103.49",
+      "obstacle_pct": "103.49",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "p5wNn28nFGKWHIJI8NDG1g",
+    "lat": 13.868399,
+    "lng": 100.592582,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.868399_100.592582_p5wNn28nFGKWHIJI8NDG1g_121_2025-01.jpg",
+    "panoId": "p5wNn28nFGKWHIJI8NDG1g",
+    "heading": 121,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.95",
+      "obstacle_pct": "21.95",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "VAAYlw_foOBxoQ9S49-R_g",
+    "lat": 13.873997,
+    "lng": 100.595929,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.873997_100.595929_VAAYlw_foOBxoQ9S49-R_g_120_2025-01.jpg",
+    "panoId": "VAAYlw_foOBxoQ9S49-R_g",
+    "heading": 120,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.21",
+      "obstacle_pct": "20.21",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "xE4DaoKnbDZFHW-zakOYSg",
+    "lat": 13.874345,
+    "lng": 100.595839,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.874345_100.595839_xE4DaoKnbDZFHW-zakOYSg_300_2025-01.jpg",
+    "panoId": "xE4DaoKnbDZFHW-zakOYSg",
+    "heading": 300,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "44.27",
+      "obstacle_pct": "44.27",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Tz8XJxeewvjiqcT8CyF1Xg",
+    "lat": 13.829498,
+    "lng": 100.569524,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.829498_100.569524_Tz8XJxeewvjiqcT8CyF1Xg_301_2025-01.jpg",
+    "panoId": "Tz8XJxeewvjiqcT8CyF1Xg",
+    "heading": 301,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.38",
+      "obstacle_pct": "23.38",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "B8YHSLFGcQGR20PDQDttYA",
+    "lat": 13.829579,
+    "lng": 100.569573,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.829579_100.569573_B8YHSLFGcQGR20PDQDttYA_301_2025-01.jpg",
+    "panoId": "B8YHSLFGcQGR20PDQDttYA",
+    "heading": 301,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.7",
+      "obstacle_pct": "22.7",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "-ng-7RaJFXYy8-FUKJBvJg",
+    "lat": 13.82966,
+    "lng": 100.569621,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.829660_100.569621_-ng-7RaJFXYy8-FUKJBvJg_300_2025-01.jpg",
+    "panoId": "-ng-7RaJFXYy8-FUKJBvJg",
+    "heading": 300,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "27.87",
+      "obstacle_pct": "27.87",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "CCBQIP7NRvbLGyW_doNS1Q",
+    "lat": 13.830318,
+    "lng": 100.570179,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.830318_100.570179_CCBQIP7NRvbLGyW_doNS1Q_120_2024-11.jpg",
+    "panoId": "CCBQIP7NRvbLGyW_doNS1Q",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "30.41",
+      "obstacle_pct": "30.41",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "WuE08g0Zig7_I_5Qrfs3MA",
+    "lat": 13.830493,
+    "lng": 100.570114,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.830493_100.570114_WuE08g0Zig7_I_5Qrfs3MA_301_2025-01.jpg",
+    "panoId": "WuE08g0Zig7_I_5Qrfs3MA",
+    "heading": 301,
+    "date": "2025-01",
+    "dateNote": "Note: Data matches image taken on 2025-01 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "37.6",
+      "obstacle_pct": "37.6",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "RTX8wmQaCQUtayfxkBmEMg",
+    "lat": 13.831224,
+    "lng": 100.570712,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.831224_100.570712_RTX8wmQaCQUtayfxkBmEMg_120_2024-11.jpg",
+    "panoId": "RTX8wmQaCQUtayfxkBmEMg",
+    "heading": 120,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "47.88",
+      "obstacle_pct": "4.61",
+      "damage_pct": "43.28"
+    }
+  },
+  {
+    "id": "Prr2KufMeMd11B-tIUMPQg",
+    "lat": 13.832344,
+    "lng": 100.571142,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.832344_100.571142_Prr2KufMeMd11B-tIUMPQg_300_2024-11.jpg",
+    "panoId": "Prr2KufMeMd11B-tIUMPQg",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.3",
+      "obstacle_pct": "2.55",
+      "damage_pct": "19.75"
+    }
+  },
+  {
+    "id": "kaHqt5Qv3N6isetDP5cvuA",
+    "lat": 13.834752,
+    "lng": 100.572574,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.834752_100.572574_kaHqt5Qv3N6isetDP5cvuA_300_2024-11.jpg",
+    "panoId": "kaHqt5Qv3N6isetDP5cvuA",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.07",
+      "obstacle_pct": "11.67",
+      "damage_pct": "12.4"
+    }
+  },
+  {
+    "id": "USM8Ar73glcQl8_TBmgWQw",
+    "lat": 13.835786,
+    "lng": 100.573178,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.835786_100.573178_USM8Ar73glcQl8_TBmgWQw_300_2024-11.jpg",
+    "panoId": "USM8Ar73glcQl8_TBmgWQw",
+    "heading": 300,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.35",
+      "obstacle_pct": "25.35",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "77TnX3Ht40REwGwtvnTTbA",
+    "lat": 13.836367,
+    "lng": 100.573701,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.836367_100.573701_77TnX3Ht40REwGwtvnTTbA_121_2024-11.jpg",
+    "panoId": "77TnX3Ht40REwGwtvnTTbA",
+    "heading": 121,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.76",
+      "obstacle_pct": "23.76",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "oQzXOyV8JbFzuDjZ3xq35g",
+    "lat": 13.766167,
+    "lng": 100.539138,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.766167_100.539138_oQzXOyV8JbFzuDjZ3xq35g_118_2024-11.jpg",
+    "panoId": "oQzXOyV8JbFzuDjZ3xq35g",
+    "heading": 118,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "48.35",
+      "obstacle_pct": "48.35",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "eX1gnEpPzjVIYI3ZSdc6-w",
+    "lat": 13.768372,
+    "lng": 100.540317,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.768372_100.540317_eX1gnEpPzjVIYI3ZSdc6-w_117_2024-11.jpg",
+    "panoId": "eX1gnEpPzjVIYI3ZSdc6-w",
+    "heading": 117,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.09",
+      "obstacle_pct": "22.09",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "HYLS9f73T5WduPjIdaP1zw",
+    "lat": 13.768862,
+    "lng": 100.54059,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.768862_100.540590_HYLS9f73T5WduPjIdaP1zw_117_2024-11.jpg",
+    "panoId": "HYLS9f73T5WduPjIdaP1zw",
+    "heading": 117,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.95",
+      "obstacle_pct": "21.95",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "gfGul9r4vQ8-BpWWe32Ucw",
+    "lat": 13.769223,
+    "lng": 100.540787,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.769223_100.540787_gfGul9r4vQ8-BpWWe32Ucw_118_2024-11.jpg",
+    "panoId": "gfGul9r4vQ8-BpWWe32Ucw",
+    "heading": 118,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.94",
+      "obstacle_pct": "22.94",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "s6wLKtL8YCsPizqDDtOiug",
+    "lat": 13.7696,
+    "lng": 100.540959,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.769600_100.540959_s6wLKtL8YCsPizqDDtOiug_118_2024-11.jpg",
+    "panoId": "s6wLKtL8YCsPizqDDtOiug",
+    "heading": 118,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "25.71",
+      "obstacle_pct": "25.71",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "gz_NuAt4l1U8II-JJErAJQ",
+    "lat": 13.772045,
+    "lng": 100.541814,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.772045_100.541814_gz_NuAt4l1U8II-JJErAJQ_290_2024-11.jpg",
+    "panoId": "gz_NuAt4l1U8II-JJErAJQ",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "26.06",
+      "obstacle_pct": "26.06",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "EhVvw0tzhMFB80O9lW0Z-g",
+    "lat": 13.773531,
+    "lng": 100.542485,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.773531_100.542485_EhVvw0tzhMFB80O9lW0Z-g_109_2024-11.jpg",
+    "panoId": "EhVvw0tzhMFB80O9lW0Z-g",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.29",
+      "obstacle_pct": "24.29",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "O9-7g9Diu9BiOuuNXNdCcg",
+    "lat": 13.774227,
+    "lng": 100.542737,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.774227_100.542737_O9-7g9Diu9BiOuuNXNdCcg_108_2024-11.jpg",
+    "panoId": "O9-7g9Diu9BiOuuNXNdCcg",
+    "heading": 108,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.93",
+      "obstacle_pct": "21.93",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "SVxlY2PAIjGoHqxkBeUK8g",
+    "lat": 13.774408,
+    "lng": 100.542803,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.774408_100.542803_SVxlY2PAIjGoHqxkBeUK8g_109_2024-11.jpg",
+    "panoId": "SVxlY2PAIjGoHqxkBeUK8g",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "30.86",
+      "obstacle_pct": "30.86",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "ugjgK6bWusjqZPLJp4Xhxg",
+    "lat": 13.775374,
+    "lng": 100.542988,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.775374_100.542988_ugjgK6bWusjqZPLJp4Xhxg_289_2024-11.jpg",
+    "panoId": "ugjgK6bWusjqZPLJp4Xhxg",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "105.98",
+      "obstacle_pct": "105.98",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "2UjtxT3F3ZCLhpivVfbZbA",
+    "lat": 13.775459,
+    "lng": 100.543019,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.775459_100.543019_2UjtxT3F3ZCLhpivVfbZbA_289_2024-11.jpg",
+    "panoId": "2UjtxT3F3ZCLhpivVfbZbA",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.49",
+      "obstacle_pct": "22.49",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "FBrMoCzIAPuZoUlsxeQSKg",
+    "lat": 13.777316,
+    "lng": 100.543696,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.777316_100.543696_FBrMoCzIAPuZoUlsxeQSKg_290_2024-11.jpg",
+    "panoId": "FBrMoCzIAPuZoUlsxeQSKg",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.49",
+      "obstacle_pct": "23.49",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "F-xuCo7P0D2er-HGohJDPA",
+    "lat": 13.777404,
+    "lng": 100.543724,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.777404_100.543724_F-xuCo7P0D2er-HGohJDPA_290_2024-11.jpg",
+    "panoId": "F-xuCo7P0D2er-HGohJDPA",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "60.09",
+      "obstacle_pct": "3.21",
+      "damage_pct": "56.88"
+    }
+  },
+  {
+    "id": "e6LNoU2OCK5iBvAl6CX-rA",
+    "lat": 13.777912,
+    "lng": 100.543908,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.777912_100.543908_e6LNoU2OCK5iBvAl6CX-rA_288_2024-11.jpg",
+    "panoId": "e6LNoU2OCK5iBvAl6CX-rA",
+    "heading": 288,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "29.48",
+      "obstacle_pct": "29.48",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "TYHq7S-2VAlZROXZpW4s4g",
+    "lat": 13.77858,
+    "lng": 100.544137,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.778580_100.544137_TYHq7S-2VAlZROXZpW4s4g_289_2024-11.jpg",
+    "panoId": "TYHq7S-2VAlZROXZpW4s4g",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "39.33",
+      "obstacle_pct": "39.33",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "nTzs5Bx_SEow618TuPwWLQ",
+    "lat": 13.781862,
+    "lng": 100.545515,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.781862_100.545515_nTzs5Bx_SEow618TuPwWLQ_109_2024-11.jpg",
+    "panoId": "nTzs5Bx_SEow618TuPwWLQ",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.77",
+      "obstacle_pct": "23.77",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "xciQxIQxjPZR2Q4u6-koEg",
+    "lat": 13.781947,
+    "lng": 100.545545,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.781947_100.545545_xciQxIQxjPZR2Q4u6-koEg_110_2024-11.jpg",
+    "panoId": "xciQxIQxjPZR2Q4u6-koEg",
+    "heading": 110,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "28.32",
+      "obstacle_pct": "28.32",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "yoSr64KbkDT5pSXTBKystA",
+    "lat": 13.783311,
+    "lng": 100.545842,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.783311_100.545842_yoSr64KbkDT5pSXTBKystA_289_2024-11.jpg",
+    "panoId": "yoSr64KbkDT5pSXTBKystA",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "32.59",
+      "obstacle_pct": "20.59",
+      "damage_pct": "12.0"
+    }
+  },
+  {
+    "id": "zXITuM6e03DDAhjchXYOpg",
+    "lat": 13.78383,
+    "lng": 100.54603,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.783830_100.546030_zXITuM6e03DDAhjchXYOpg_290_2024-11.jpg",
+    "panoId": "zXITuM6e03DDAhjchXYOpg",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "77.32",
+      "obstacle_pct": "77.32",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "3Ti00vDiibvcydiiHM5NIQ",
+    "lat": 13.783916,
+    "lng": 100.546058,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.783916_100.546058_3Ti00vDiibvcydiiHM5NIQ_290_2024-11.jpg",
+    "panoId": "3Ti00vDiibvcydiiHM5NIQ",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "47.23",
+      "obstacle_pct": "47.23",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "EvA18Bm0ZYinPh6tzDUitQ",
+    "lat": 13.784262,
+    "lng": 100.546377,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.784262_100.546377_EvA18Bm0ZYinPh6tzDUitQ_109_2024-11.jpg",
+    "panoId": "EvA18Bm0ZYinPh6tzDUitQ",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "47.49",
+      "obstacle_pct": "47.49",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "NA0ODliZB4WTBJaJUXKF4Q",
+    "lat": 13.784563,
+    "lng": 100.546488,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.784563_100.546488_NA0ODliZB4WTBJaJUXKF4Q_110_2024-11.jpg",
+    "panoId": "NA0ODliZB4WTBJaJUXKF4Q",
+    "heading": 110,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "51.23",
+      "obstacle_pct": "51.23",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "0eqQp2J-cCOW5hLA9gv7gA",
+    "lat": 13.784647,
+    "lng": 100.546518,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.784647_100.546518_0eqQp2J-cCOW5hLA9gv7gA_110_2024-11.jpg",
+    "panoId": "0eqQp2J-cCOW5hLA9gv7gA",
+    "heading": 110,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "45.88",
+      "obstacle_pct": "45.88",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "OCG3PG_A4DXBAGIN1sa7RQ",
+    "lat": 13.784908,
+    "lng": 100.546413,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.784908_100.546413_OCG3PG_A4DXBAGIN1sa7RQ_290_2024-11.jpg",
+    "panoId": "OCG3PG_A4DXBAGIN1sa7RQ",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "43.35",
+      "obstacle_pct": "43.35",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "ralIUfufwyweCCCJOHgqqA",
+    "lat": 13.785082,
+    "lng": 100.546476,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.785082_100.546476_ralIUfufwyweCCCJOHgqqA_290_2024-11.jpg",
+    "panoId": "ralIUfufwyweCCCJOHgqqA",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "48.53",
+      "obstacle_pct": "47.65",
+      "damage_pct": "0.88"
+    }
+  },
+  {
+    "id": "QWDRpehLzLyIxPDsR8wGqg",
+    "lat": 13.785239,
+    "lng": 100.546731,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.785239_100.546731_QWDRpehLzLyIxPDsR8wGqg_111_2024-11.jpg",
+    "panoId": "QWDRpehLzLyIxPDsR8wGqg",
+    "heading": 111,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "39.2",
+      "obstacle_pct": "39.2",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "sw2sDe2QUC5hG2dAl1TMAw",
+    "lat": 13.785426,
+    "lng": 100.546601,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.785426_100.546601_sw2sDe2QUC5hG2dAl1TMAw_289_2024-11.jpg",
+    "panoId": "sw2sDe2QUC5hG2dAl1TMAw",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "41.88",
+      "obstacle_pct": "20.59",
+      "damage_pct": "21.29"
+    }
+  },
+  {
+    "id": "NDHuD4Le2OikLiWzy3IHNg",
+    "lat": 13.785497,
+    "lng": 100.546824,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.785497_100.546824_NDHuD4Le2OikLiWzy3IHNg_111_2024-11.jpg",
+    "panoId": "NDHuD4Le2OikLiWzy3IHNg",
+    "heading": 111,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "27.2",
+      "obstacle_pct": "27.2",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "f30ZlfZgWw_RCCELykFmFg",
+    "lat": 13.785684,
+    "lng": 100.546695,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.785684_100.546695_f30ZlfZgWw_RCCELykFmFg_289_2024-11.jpg",
+    "panoId": "f30ZlfZgWw_RCCELykFmFg",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "27.62",
+      "obstacle_pct": "27.62",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "t1jESPl1146YqytomKNQvA",
+    "lat": 13.785933,
+    "lng": 100.546978,
+    "type": "BOTH",
+    "severity": "CRITICAL",
+    "description": "Detected BOTH (CRITICAL).",
+    "image": "/marker-images/13.785933_100.546978_t1jESPl1146YqytomKNQvA_109_2024-11.jpg",
+    "panoId": "t1jESPl1146YqytomKNQvA",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "210.66",
+      "obstacle_pct": "29.38",
+      "damage_pct": "181.28"
+    }
+  },
+  {
+    "id": "3yfMIt52SedMwcmmKFc5ng",
+    "lat": 13.785942,
+    "lng": 100.546789,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.785942_100.546789_3yfMIt52SedMwcmmKFc5ng_289_2024-11.jpg",
+    "panoId": "3yfMIt52SedMwcmmKFc5ng",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.33",
+      "obstacle_pct": "24.33",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "FmSV0gkmH_4qCNvJlQdktQ",
+    "lat": 13.78689,
+    "lng": 100.547321,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.786890_100.547321_FmSV0gkmH_4qCNvJlQdktQ_109_2024-11.jpg",
+    "panoId": "FmSV0gkmH_4qCNvJlQdktQ",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.72",
+      "obstacle_pct": "20.72",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "tbxkrn3parE_Dn3jrNtdzA",
+    "lat": 13.787287,
+    "lng": 100.547464,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.787287_100.547464_tbxkrn3parE_Dn3jrNtdzA_109_2024-11.jpg",
+    "panoId": "tbxkrn3parE_Dn3jrNtdzA",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "20.08",
+      "obstacle_pct": "20.08",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "L3OQaXbKJBYXI8Q0mzpqFQ",
+    "lat": 13.787368,
+    "lng": 100.547494,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.787368_100.547494_L3OQaXbKJBYXI8Q0mzpqFQ_109_2024-11.jpg",
+    "panoId": "L3OQaXbKJBYXI8Q0mzpqFQ",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.19",
+      "obstacle_pct": "23.19",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "Z25Ybts0or9UUwLliosvdQ",
+    "lat": 13.787539,
+    "lng": 100.547556,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.787539_100.547556_Z25Ybts0or9UUwLliosvdQ_109_2024-11.jpg",
+    "panoId": "Z25Ybts0or9UUwLliosvdQ",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.73",
+      "obstacle_pct": "24.73",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "LRDLmBS9Oid3taEg65XCEg",
+    "lat": 13.787982,
+    "lng": 100.547716,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.787982_100.547716_LRDLmBS9Oid3taEg65XCEg_111_2024-11.jpg",
+    "panoId": "LRDLmBS9Oid3taEg65XCEg",
+    "heading": 111,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.0",
+      "obstacle_pct": "21.0",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "lXhALJqRgf4JKUHkwr_XMw",
+    "lat": 13.788189,
+    "lng": 100.547596,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.788189_100.547596_lXhALJqRgf4JKUHkwr_XMw_289_2024-11.jpg",
+    "panoId": "lXhALJqRgf4JKUHkwr_XMw",
+    "heading": 289,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "36.28",
+      "obstacle_pct": "36.28",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "WwliOyJTR710vkBji0qZYw",
+    "lat": 13.788361,
+    "lng": 100.547854,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.788361_100.547854_WwliOyJTR710vkBji0qZYw_109_2024-11.jpg",
+    "panoId": "WwliOyJTR710vkBji0qZYw",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "115.7",
+      "obstacle_pct": "115.7",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "OeBW2bdJwaAv-k4OPrOnIQ",
+    "lat": 13.789036,
+    "lng": 100.547903,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.789036_100.547903_OeBW2bdJwaAv-k4OPrOnIQ_288_2024-11.jpg",
+    "panoId": "OeBW2bdJwaAv-k4OPrOnIQ",
+    "heading": 288,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "47.91",
+      "obstacle_pct": "47.91",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "806DoxzAF-gXyxSEq5SJHw",
+    "lat": 13.789154,
+    "lng": 100.548136,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.789154_100.548136_806DoxzAF-gXyxSEq5SJHw_109_2024-11.jpg",
+    "panoId": "806DoxzAF-gXyxSEq5SJHw",
+    "heading": 109,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.69",
+      "obstacle_pct": "24.69",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "WjY0vkMDYkNFaVcdJY54zA",
+    "lat": 13.789301,
+    "lng": 100.547999,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.789301_100.547999_WjY0vkMDYkNFaVcdJY54zA_290_2024-11.jpg",
+    "panoId": "WjY0vkMDYkNFaVcdJY54zA",
+    "heading": 290,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "34.19",
+      "obstacle_pct": "34.19",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "fHdrG5FK68Buj4zp6K6SZA",
+    "lat": 13.840324,
+    "lng": 100.577701,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.840324_100.577701_fHdrG5FK68Buj4zp6K6SZA_349_2024-11.jpg",
+    "panoId": "fHdrG5FK68Buj4zp6K6SZA",
+    "heading": 349,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "54.46",
+      "obstacle_pct": "0.0",
+      "damage_pct": "54.46"
+    }
+  },
+  {
+    "id": "lxXX3QzQMxj9zR43shXWJg",
+    "lat": 13.840433,
+    "lng": 100.578352,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.840433_100.578352_lxXX3QzQMxj9zR43shXWJg_351_2024-11.jpg",
+    "panoId": "lxXX3QzQMxj9zR43shXWJg",
+    "heading": 351,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "35.57",
+      "obstacle_pct": "35.57",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "O8ohaGJUos_EmVXxtHtPow",
+    "lat": 13.840486,
+    "lng": 100.583187,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.840486_100.583187_O8ohaGJUos_EmVXxtHtPow_179_2024-11.jpg",
+    "panoId": "O8ohaGJUos_EmVXxtHtPow",
+    "heading": 179,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.4",
+      "obstacle_pct": "0.58",
+      "damage_pct": "20.82"
+    }
+  },
+  {
+    "id": "7bFy7ovEd0KrXoj9VeGqXw",
+    "lat": 13.840526,
+    "lng": 100.584606,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840526_100.584606_7bFy7ovEd0KrXoj9VeGqXw_177_2024-11.jpg",
+    "panoId": "7bFy7ovEd0KrXoj9VeGqXw",
+    "heading": 177,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "24.8",
+      "obstacle_pct": "24.8",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "7rhcxsEKZAnlR5GM50lreg",
+    "lat": 13.840594,
+    "lng": 100.585482,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840594_100.585482_7rhcxsEKZAnlR5GM50lreg_174_2024-11.jpg",
+    "panoId": "7rhcxsEKZAnlR5GM50lreg",
+    "heading": 174,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.45",
+      "obstacle_pct": "21.45",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "MQZQBYk1CJBC--qiQJbjKw",
+    "lat": 13.840792,
+    "lng": 100.586889,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840792_100.586889_MQZQBYk1CJBC--qiQJbjKw_171_2024-11.jpg",
+    "panoId": "MQZQBYk1CJBC--qiQJbjKw",
+    "heading": 171,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "22.93",
+      "obstacle_pct": "22.93",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "51ALvNkvc_Th-3-aV4YybA",
+    "lat": 13.840887,
+    "lng": 100.587462,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840887_100.587462_51ALvNkvc_Th-3-aV4YybA_171_2024-11.jpg",
+    "panoId": "51ALvNkvc_Th-3-aV4YybA",
+    "heading": 171,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "23.2",
+      "obstacle_pct": "23.2",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "JZLgJi-hmsMu57vbS1plIQ",
+    "lat": 13.84157,
+    "lng": 100.594492,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.841570_100.594492_JZLgJi-hmsMu57vbS1plIQ_191_2024-11.jpg",
+    "panoId": "JZLgJi-hmsMu57vbS1plIQ",
+    "heading": 191,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "21.0",
+      "obstacle_pct": "21.0",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "RfD5mAnHh1WW_dOp-x2x4Q",
+    "lat": 13.82634,
+    "lng": 100.627266,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.826340_100.627266_RfD5mAnHh1WW_dOp-x2x4Q_227_2025-10.jpg",
+    "panoId": "RfD5mAnHh1WW_dOp-x2x4Q",
+    "heading": 227,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "21.76",
+      "obstacle_pct": "21.76",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "_CBJYzFkyj-SVOvrTWkcow",
+    "lat": 13.826978,
+    "lng": 100.626632,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.826978_100.626632__CBJYzFkyj-SVOvrTWkcow_227_2025-10.jpg",
+    "panoId": "_CBJYzFkyj-SVOvrTWkcow",
+    "heading": 227,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "24.07",
+      "obstacle_pct": "12.26",
+      "damage_pct": "11.81"
+    }
+  },
+  {
+    "id": "qe6hdgX6AWzDyrDQY3EpbA",
+    "lat": 13.82897,
+    "lng": 100.624173,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.828970_100.624173_qe6hdgX6AWzDyrDQY3EpbA_210_2025-10.jpg",
+    "panoId": "qe6hdgX6AWzDyrDQY3EpbA",
+    "heading": 210,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "22.49",
+      "obstacle_pct": "22.49",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "uGQifR7GCTsS2tViaCo8Jg",
+    "lat": 13.830394,
+    "lng": 100.62065,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.830394_100.620650_uGQifR7GCTsS2tViaCo8Jg_10_2025-10.jpg",
+    "panoId": "uGQifR7GCTsS2tViaCo8Jg",
+    "heading": 10,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "35.61",
+      "obstacle_pct": "1.36",
+      "damage_pct": "34.25"
+    }
+  },
+  {
+    "id": "lU2m99HjF1PDfD6ZnaJJlA",
+    "lat": 13.830691,
+    "lng": 100.617419,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.830691_100.617419_lU2m99HjF1PDfD6ZnaJJlA_190_2025-10.jpg",
+    "panoId": "lU2m99HjF1PDfD6ZnaJJlA",
+    "heading": 190,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "22.33",
+      "obstacle_pct": "22.33",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "acZo6KCyCwLa4h4tSNalDA",
+    "lat": 13.830772,
+    "lng": 100.618481,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.830772_100.618481_acZo6KCyCwLa4h4tSNalDA_11_2025-10.jpg",
+    "panoId": "acZo6KCyCwLa4h4tSNalDA",
+    "heading": 11,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "20.09",
+      "obstacle_pct": "20.09",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "GZVyLPRn3jnlLSvsIPLAjA",
+    "lat": 13.831003,
+    "lng": 100.617134,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.831003_100.617134_GZVyLPRn3jnlLSvsIPLAjA_11_2025-10.jpg",
+    "panoId": "GZVyLPRn3jnlLSvsIPLAjA",
+    "heading": 11,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "20.26",
+      "obstacle_pct": "0.0",
+      "damage_pct": "20.26"
+    }
+  },
+  {
+    "id": "0ZnQVGTgsmjmXmGivO203Q",
+    "lat": 13.831176,
+    "lng": 100.61614,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.831176_100.616140_0ZnQVGTgsmjmXmGivO203Q_10_2025-10.jpg",
+    "panoId": "0ZnQVGTgsmjmXmGivO203Q",
+    "heading": 10,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "78.06",
+      "obstacle_pct": "78.06",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "CLwSfhJ04DwJXtHpdMraPw",
+    "lat": 13.83121,
+    "lng": 100.61596,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.831210_100.615960_CLwSfhJ04DwJXtHpdMraPw_11_2025-10.jpg",
+    "panoId": "CLwSfhJ04DwJXtHpdMraPw",
+    "heading": 11,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "36.23",
+      "obstacle_pct": "22.12",
+      "damage_pct": "14.11"
+    }
+  },
+  {
+    "id": "r_m-lNA71f5HqIpWMt1dHg",
+    "lat": 13.83135,
+    "lng": 100.61531,
+    "type": "OBSTACLE",
+    "severity": "CRITICAL",
+    "description": "Detected OBSTACLE (CRITICAL).",
+    "image": "/marker-images/13.831350_100.615310_r_m-lNA71f5HqIpWMt1dHg_14_2025-10.jpg",
+    "panoId": "r_m-lNA71f5HqIpWMt1dHg",
+    "heading": 14,
+    "date": "2025-10",
+    "dateNote": "Image Date: 2025-10",
+    "raw": {
+      "total_blocked_pct": "67.94",
+      "obstacle_pct": "67.94",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "4F_FP6zENVvg6rC1eE45lQ",
+    "lat": 13.83138,
+    "lng": 100.614237,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.831380_100.614237_4F_FP6zENVvg6rC1eE45lQ_198_2024-11.jpg",
+    "panoId": "4F_FP6zENVvg6rC1eE45lQ",
+    "heading": 198,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "31.75",
+      "obstacle_pct": "31.75",
+      "damage_pct": "0.0"
+    }
+  },
+  {
+    "id": "-shMFb-DhbPV29pvEOUXPw",
+    "lat": 13.834209,
+    "lng": 100.609062,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.834209_100.609062_-shMFb-DhbPV29pvEOUXPw_30_2025-04.jpg",
+    "panoId": "-shMFb-DhbPV29pvEOUXPw",
+    "heading": 30,
+    "date": "2025-04",
+    "dateNote": "Image Date: 2025-04",
+    "raw": {
+      "total_blocked_pct": "25.91",
+      "obstacle_pct": "6.58",
+      "damage_pct": "19.33"
+    }
+  },
+  {
+    "id": "IyPUo00711bYp8_BnawTWw",
+    "lat": 13.839846,
+    "lng": 100.59851,
+    "type": "SURFACE DAMAGE",
+    "severity": "WARNING",
+    "description": "Detected SURFACE DAMAGE (WARNING).",
+    "image": "/marker-images/13.839846_100.598510_IyPUo00711bYp8_BnawTWw_210_2024-11.jpg",
+    "panoId": "IyPUo00711bYp8_BnawTWw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "31.72",
+      "obstacle_pct": "10.24",
+      "damage_pct": "21.48"
+    }
+  },
+  {
+    "id": "8Pnpu-OcTtgdrJQngZEbPw",
+    "lat": 13.839985,
+    "lng": 100.598265,
+    "type": "SURFACE DAMAGE",
+    "severity": "CRITICAL",
+    "description": "Detected SURFACE DAMAGE (CRITICAL).",
+    "image": "/marker-images/13.839985_100.598265_8Pnpu-OcTtgdrJQngZEbPw_210_2024-11.jpg",
+    "panoId": "8Pnpu-OcTtgdrJQngZEbPw",
+    "heading": 210,
+    "date": "2024-11",
+    "dateNote": "Note: Data matches image taken on 2024-11 (older than 1 year)",
+    "raw": {
+      "total_blocked_pct": "97.49",
+      "obstacle_pct": "6.49",
+      "damage_pct": "91.0"
+    }
+  },
+  {
+    "id": "9ojVXX8tn9LRxbFphkEzGA",
+    "lat": 13.840545,
+    "lng": 100.59779,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840545_100.597790_9ojVXX8tn9LRxbFphkEzGA_30_2025-04.jpg",
+    "panoId": "9ojVXX8tn9LRxbFphkEzGA",
+    "heading": 30,
+    "date": "2025-04",
+    "dateNote": "Image Date: 2025-04",
+    "raw": {
+      "total_blocked_pct": "33.84",
+      "obstacle_pct": "28.07",
+      "damage_pct": "5.77"
+    }
+  },
+  {
+    "id": "65eA3zbxN-cKoWNPBChkLA",
+    "lat": 13.840874,
+    "lng": 100.597175,
+    "type": "OBSTACLE",
+    "severity": "WARNING",
+    "description": "Detected OBSTACLE (WARNING).",
+    "image": "/marker-images/13.840874_100.597175_65eA3zbxN-cKoWNPBChkLA_29_2025-04.jpg",
+    "panoId": "65eA3zbxN-cKoWNPBChkLA",
+    "heading": 29,
+    "date": "2025-04",
+    "dateNote": "Image Date: 2025-04",
+    "raw": {
+      "total_blocked_pct": "23.46",
+      "obstacle_pct": "23.46",
+      "damage_pct": "0.0"
+    }
+  }
+]
