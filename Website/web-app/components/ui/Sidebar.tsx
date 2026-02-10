@@ -25,13 +25,15 @@ export default function Sidebar({ filters, setFilters }: SidebarProps) {
   return (
     <div
       className={clsx(
-        "absolute top-4 left-4 z-[1000] bg-white/90 backdrop-blur-md border border-white/20 shadow-xl rounded-xl overflow-hidden flex flex-col transition-all duration-300 ease-in-out",
-        isOpen ? "w-72 p-4 space-y-4" : "w-[58px] p-2 h-[58px]" // 58px is approx height of the header button area
+        "absolute top-4 left-4 z-[1000] rounded-xl overflow-hidden flex flex-col transition-all duration-300 ease-in-out",
+        isOpen
+          ? "w-72 p-4 space-y-4 bg-white/90 backdrop-blur-md border border-white/20 shadow-xl"
+          : "w-[58px] p-2 h-[58px] bg-transparent border-none shadow-none pointer-events-none"
       )}
     >
 
       {/* Header */}
-      <div className={clsx("flex items-center", isOpen ? "space-x-2 border-b border-gray-100 pb-2" : "justify-center border-none pb-0")}>
+      <div className={clsx("flex items-center pointer-events-auto", isOpen ? "space-x-2 border-b border-gray-100 pb-2" : "justify-center border-none pb-0")}>
         <button
           onClick={() => setIsOpen(!isOpen)}
           className={clsx(

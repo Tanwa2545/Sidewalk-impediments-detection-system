@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { ExternalLink, Calendar, AlertCircle } from 'lucide-react';
+import { ExternalLink, Calendar, AlertCircle, MapPin } from 'lucide-react';
 import { MarkerData } from '@/src/data/markers'; // Adjust import if needed
 
 interface MarkerPopupProps {
@@ -58,14 +58,26 @@ export default function MarkerPopup({ marker, onImageClick }: MarkerPopupProps) 
         )}
 
         {/* Link */}
-        <a
-          href={googleMapsLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center justify-center w-full py-2.5 mt-3 bg-blue-600 hover:bg-blue-700 !text-white text-sm font-semibold rounded-lg transition-colors shadow-sm"
-        >
-          Open Street View <ExternalLink size={14} className="ml-2 text-white" />
-        </a>
+        {/* Links */}
+        <div className="flex gap-2 mt-3">
+          <a
+            href={googleMapsLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex-1 flex items-center justify-center py-2.5 bg-blue-600 hover:bg-blue-700 !text-white text-sm font-semibold rounded-lg transition-colors shadow-sm"
+          >
+            Open Street View <ExternalLink size={14} className="ml-2 text-white" />
+          </a>
+          <a
+            href={`https://www.google.com/maps/search/?api=1&query=${marker.lat},${marker.lng}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex-none w-10 flex items-center justify-center bg-white hover:bg-gray-50 border border-gray-200 text-gray-700 rounded-lg transition-colors shadow-sm"
+            title="Open Location in Google Maps"
+          >
+            <MapPin size={18} />
+          </a>
+        </div>
       </div>
     </div>
   );
